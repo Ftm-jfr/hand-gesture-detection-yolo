@@ -1,0 +1,11 @@
+path: dataset
+train: images/train
+val: images/val
+
+names:
+  0: one_finger
+  1: two_fingers
+  2: three_fingers
+  3: four_fingers
+  4: five_fingers
+  5: like
