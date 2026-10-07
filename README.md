@@ -77,5 +77,4 @@ Edit `run.py`:
 python run.py
 ```
 
-Press `q` to quit.
 
