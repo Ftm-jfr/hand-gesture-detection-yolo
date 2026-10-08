@@ -2,7 +2,7 @@
 
 Real-time detection of six hand gestures (one to five raised fingers and a thumbs-up) with a YOLO11n model trained on a self-recorded dataset. Training labels were generated automatically with MediaPipe Hands, so the whole dataset was built from raw videos without manual annotation.
 
-This project was developed as a course project for **<Deep Learning>** at the **University of Isfahan**.
+This project was developed as a course project for **Deep Learning** at the **University of Isfahan**.
 
 ## Overview
 
